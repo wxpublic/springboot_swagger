@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot-2.0-swagger/springcloud-2.0-swagger.iml" filepath="$PROJECT_DIR$/springboot-2.0-swagger/springcloud-2.0-swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springboot-2.0-swagger-demo.iml" filepath="$PROJECT_DIR$/.idea/springboot-2.0-swagger-demo.iml" />
+      <module fileurl="file://D:\workspace_idea\springboot-2.0-swagger-demo\springboot-2.0-swagger\springcloud-2.0-swagger.iml" filepath="D:\workspace_idea\springboot-2.0-swagger-demo\springboot-2.0-swagger\springcloud-2.0-swagger.iml" />
+    </modules>
+  </component>
+</project>

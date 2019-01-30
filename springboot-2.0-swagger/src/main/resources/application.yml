@@ -1,0 +1,7 @@
+###会员项目服务启动端口号
+server:
+  port: 8000
+###服务名称(注册到eureka注册中心的名称)
+spring:
+  application:
+    name: app-itmayiedu-swagger
